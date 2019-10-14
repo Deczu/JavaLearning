@@ -2,7 +2,7 @@ package Length;
 
 public class TxtLength {
     public static int getLength(String txt){
-        return txt.length()			
-	//return x;
+        int x = txt.length()			
+	return x;
     }
 }
